@@ -12,12 +12,12 @@
            <br>
            
             ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
-           
-          <div>
+           <di>v
            
            
            
             <a href = "alexsandrosilvasilva886@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+
             <a href="https://www.linkedin.com/in/alexsandro-silva-736926190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
            
             ![Animação de cobra](https://github.com/alexsandro1986-hub
