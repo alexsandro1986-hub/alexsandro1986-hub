@@ -17,8 +17,7 @@
 
              <a href="https://www.linkedin.com/in/alexsandro-silva-736926190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
            
-            ![Animação de cobra](https://github.com/alexsandro1986-hub
-            /alexsandro1986-hub
+            ![Animação de cobra](https://github.com/alexsandro1986-hub/alexsandro1986-hub
             /blob/output/github-contribution-grid-snake.svg)
           
           </div>
